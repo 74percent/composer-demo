@@ -1,5 +1,5 @@
 {
-    "name": "74percent/app",
+    "name": "74percent/composer-demo",
     "autoload": {
         "psr-4": {
             "app\\": "app/"
